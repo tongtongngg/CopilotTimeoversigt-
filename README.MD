@@ -59,6 +59,12 @@ Download vejledningen her:
    * Foretage kvalitetstjek  
    * Returnere et direkte download-link
 
+5. **Hvad sker der nu?
+  Når du har sendt beskeden, håndterer agenten resten automatisk:
+  * **Databehandling:** Agenten læser filerne og afvikler Python-koden.
+  * **Kvalitetstjek:** Systemet verificerer at dataene er korrekte.
+  * **Resultat:** Du modtager et direkte download-link til din færdige Excel-fil.
+
 ---
 
 > [!NOTE]
