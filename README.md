@@ -1,2 +1,0 @@
-# CopilotTimeoversigt-
-Automatisk Timeoversigt Agent
