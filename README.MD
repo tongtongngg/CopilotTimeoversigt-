@@ -49,7 +49,8 @@ Download vejledningen her:
 2.  **Upload filer:** Vedhæft både din **CSV-fil** og **RUNME.py** i den samme besked.
 3.  **Aktiver processen:** Skriv følgende kommando i chatten:
 
-    > ### **`Kør timeoversigten.`**
+> ### **`Kør timeoversigten.`**
+
     > *OBS: Vent på, at begge filer er færdiguploadet i Copilot-chatten, før du sender beskeden.*
 
     > **Fejlhåndtering:**
