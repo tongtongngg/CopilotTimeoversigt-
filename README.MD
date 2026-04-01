@@ -52,7 +52,8 @@ Download vejledningen her:
     > ### **`Kør timeoversigten.`**
     > *OBS: Vent på, at begge filer er færdiguploadet i Copilot-chatten, før du sender beskeden.*
 
-    > [!TIP]
+    > [!NOTE] 
+    > **Fejlhåndtering:**
     > Hvis du får en fejlbesked om, at "RUNME.py ikke er indlæst korrekt" eller kun er delvist indlæst, så skriv: **"Indlæs RUNME og CSV fuldt og kør igen"**. Hvis den stadig fejler, så åbn en ny chat og prøv igen.
 
 4.  **Vent på behandlingen:** Når du har sendt beskeden, håndterer agenten automatisk resten:
