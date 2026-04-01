@@ -43,32 +43,22 @@ Download vejledningen her:
 
 ---
 
+## Sådan bruger du værktøjet i Copilot-agenten
 
-## Sådan bruger du værktøjet i Copilot Agenten
+1.  **Åbn Copilot-agenten:** Vælg agenten **DTU Automatisk Timeoversigt**.
+2.  **Upload filer:** Vedhæft både din **CSV-fil** og **RUNME.py** i den samme besked.
+3.  **Aktiver processen:** Skriv følgende kommando i chatten:
 
-1. **Åbn Copilot Agenten: *DTU Automatisk Timeoversigt***.  
-2. **Upload filer:** Vedhæft både **CSV-filen** og **RUNME.py** i den samme besked.  
-3. **Aktiver processen:** Skriv følgende kommando i chatten:
+    > ### **`Kør timeoversigten.`**
+    > *OBS: Vent på, at begge filer er færdiguploadet i Copilot-chatten, før du sender beskeden.*
 
-> ### **`Kør timeoversigten.`**
-*OBS:* Vent på at begge filer er færdiguploadet i copilot chatten, inden du sender den afsted.
+    > [!TIP]
+    > Hvis du får en fejlbesked om, at "RUNME.py ikke er indlæst korrekt" eller kun er delvist indlæst, så skriv: **"Indlæs RUNME og CSV fuldt og kør igen"**. Hvis den stadig fejler, så åbn en ny chat og prøv igen.
 
-###> [!TIP]
-Hvis du får en fejlbesked, hvor der står, at "RUNME.py ikke er indlæst korrekt" eller kun er delvist indlæst, så følg blot op med: "Indlæs RUNME og CSV fuldt og kør igen" som det næste prompt til agenten. Hvis den stadig fejler, så åbn en ny chat og prøv igen.
-
-4. **Vent på behandlingen:** Agenten vil nu automatisk:  
-   * Læse begge filer  
-   * Afvikle Python-koden  
-   * Generere din færdige Excel-fil  
-   * Foretage kvalitetstjek  
-   * Returnere et direkte download-link
-
-5. Hvad sker der nu?
-  Når du har sendt beskeden, håndterer agenten resten automatisk:
-  * **Databehandling:** Agenten læser filerne og kører Python-koden.
-  * **Kvalitetstjek:** Systemet tjekker at dataene er korrekte.
-  * **Resultat:** Du modtager et direkte download-link til din færdige Excel-fil.
-
+4.  **Vent på behandlingen:** Når du har sendt beskeden, håndterer agenten automatisk resten:
+    * **Databehandling:** Agenten læser filerne og afvikler Python-koden.
+    * **Kvalitetstjek:** Systemet sikrer, at dataene er korrekt behandlet.
+    * **Resultat:** Du modtager et direkte download-link til din færdige Excel-fil.
 ---
 
 > [!NOTE]
