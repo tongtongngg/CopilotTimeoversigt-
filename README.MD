@@ -52,6 +52,7 @@ Download vejledningen her:
 
 > ### **`Kør timeoversigten.`**
 *OBS:* Vent på at begge filer er færdiguploadet i copilot chatten, inden du sender den afsted.
+
 Hvis du får en fejlbesked, hvor der står, at "RUNME.py ikke er indlæst korrekt" eller kun er delvist indlæst, så følg blot op med: "Indlæs RUNME og CSV fuldt og kør igen" som det næste prompt til agenten. Hvis den stadig fejler, så åbn en ny chat og prøv igen.
 
 4. **Vent på behandlingen:** Agenten vil nu automatisk:  
